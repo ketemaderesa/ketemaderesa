@@ -1,13 +1,45 @@
-## Hi there 👋  Welcome to My GitHub!
-I'm a passionate developer and researcher from **Ethiopia 🇪🇹**, combining **technology, data, and culture** to build meaningful digital solutions.
+Hi there 👋, I'm Ketema Deresa
+Web Developer | Problem Solver | Lifelong Learner
+I’m passionate about building clean, efficient, and user-friendly web applications. I enjoy turning ideas into code and exploring new technologies to stay updated with industry trends.
+
+🌱 Currently Learning
+Advanced JavaScript (ES6+)
+
+React.js for building modern, scalable frontends
+
+Node.js & Express.js for backend development
+
+Best practices for Clean Code & Web Performance
+
+💻 Skills & Tools
+Frontend: HTML5, CSS3, JavaScript (ES6+), React, Tailwind CSS
+
+Backend: Node.js (Basics), Express.js
+
+Database: MongoDB (Basics), JSON
+
+Version Control: Git, GitHub
+
+Other Tools: VS Code, Chrome DevTools, Postman, Figma
+
+📊 GitHub Stats
 
 
-### 👨‍🔬 What I Do
+🌐 Connect With Me
+Email: ketema.deresa@example.com
 
-- 📊 **Agricultural Data Science**: Crop yield prediction & climate impact analysis
-- 🌐 **Web Development**: Digital platforms for Oromo cultural preservation
-- ☁️ **Cloud Computing**: IaaS, SaaS, AWS, DevOps tools
-- 🤖 **Machine Learning & AI**: Smart agriculture and sustainable technologies
+LinkedIn: linkedin.com/in/ketema-deresa
 
-<!--
-**ketemaderesa/ketemaderesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Portfolio: yourwebsite.com
+
+Fun Fact ⚡
+"I love solving real-world problems through code and enjoy contributing to open-source projects!"
+
+Do you want me to:
+
+Add badges (skills, followers, profile views)?
+
+Add GitHub trophies & activity graph (makes it look advanced)?
+
+Include a personal projects section?
+Shall I make it final with all badges and dynamic sections (ready to copy-paste)?
