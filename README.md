@@ -37,7 +37,7 @@ Data Engineering – managing and processing large-scale datasets
 Web Performance Optimization – building efficient and fast web apps
 
 🌐 Connect With Me
-Email: ketema.deresa@example.com
+Email: ketema.deresa@gmail.com
 
 LinkedIn: linkedin.com/in/ketemaderesa/
 
