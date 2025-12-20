@@ -13,7 +13,7 @@ Turning ideas into code and exploring **cutting-edge technologies** is my daily 
 - ⚡ **Node.js & Express.js** backend APIs  
 - 🧹 Practicing **Clean Code** & improving web performance  
 - 🎨 Enhancing **UI/UX** skills with **Tailwind CSS** & **Figma**  
-- ☁️ Exploring **Cloud Computing** and optimization techniques  
+- ☁️ Exploring **Cloud Computing & Optimization Techniques**  
 
 ---
 
@@ -45,10 +45,36 @@ Turning ideas into code and exploring **cutting-edge technologies** is my daily 
 ---
 
 ## 🔬 Research & Academic Interests
-- ☁️ **Cloud Computing** – VM placement, scalable infrastructure, serverless systems  
+- ☁️ **Cloud Computing** – Virtualization, scalable infrastructure, serverless systems  
 - 🤖 **Machine Learning & AI** – intelligent systems, automation, data-driven solutions  
 - 📊 **Data Engineering** – managing & processing large-scale datasets  
 - ⚡ **Web Performance Optimization** – fast, efficient, scalable web apps  
+
+---
+
+## 🎓 Courses Taught / Undergraduate Subjects
+I have taught the following **undergraduate courses**:  
+- 💻 **C++ & Object-Oriented Programming (OOP)**  
+- ☕ **Advanced Java Programming**  
+- 🛠️ **Software Engineering**  
+- 🌐 **Data Communication & Networking**  
+- 🖥️ **Compiler Design**  
+- ☁️ **Distributed Systems**  
+- 🔐 **Computer Security**  
+- 🗄️ **Advanced Database Systems**  
+- 🐍 **Python Programming**
+
+---
+
+## 🏫 Community Service
+- 📚 Delivered **Database Management System workshops** to the community  
+- 🌱 Engaged in initiatives to improve technology awareness and skill development  
+
+---
+
+## 🔬 Researcher
+- 🔍 Focus Areas: **Cloud Computing** & **Artificial Intelligence**  
+- 🕒 Currently **ongoing research projects** in these fields  
 
 ---
 
@@ -62,7 +88,7 @@ Turning ideas into code and exploring **cutting-edge technologies** is my daily 
 ## 📜 Certifications
 - 🏅 **Front-End Development** –  (React.js, Tailwind CSS, JavaScript, GraphQL basics)  
 - 🤖 **Artificial Intelligence & Virtual Assistance**   
-- 📊 **Data Analysis, Android Development & Web Programming**
+- 📊 **Data Analysis, Android Development & Web Programming**   
 
 ---
 
