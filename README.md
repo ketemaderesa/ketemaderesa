@@ -75,7 +75,7 @@ I have taught the following **undergraduate courses**:
 ## 🔬 Researcher
 - 🔍 Focus Areas: **Cloud Computing** & **Artificial Intelligence**  
 - 🕒 Currently **ongoing research projects** in these fields  
-
+https://www.webofscience.com/wos/author/record/PVC-6718-2026
 ---
 
 ## 🚀 Projects
