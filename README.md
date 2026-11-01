@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
   <!-- Animated Typing Header -->
@@ -9,7 +11,7 @@
   <img src="https://media.giphy.com/media/qgQUggACQPF6knEq8Q/giphy.gif" width="280" alt="Developer coding"/>
 
   <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" height="35"/> 
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" height="35"/>
     Ketema Deresa
   </h2>
 
@@ -46,11 +48,11 @@
 
 ### 🌱 Currently Learning & Building
 
-- ⚛️ **React.js** — Building modern and scalable frontends  
-- ⚡ **Node.js + Express** — Creating clean backend APIs  
-- 🎨 **UI/UX** — Improving design skills with Tailwind CSS & Figma  
-- ☁️ **Cloud Computing** — Exploring scalable architecture & optimization  
-- 🧹 **Clean Code** — Writing maintainable and high-quality software  
+- ⚛️ **React.js** — Building modern and scalable frontends
+- ⚡ **Node.js + Express** — Creating clean backend APIs
+- 🎨 **UI/UX** — Improving design skills with Tailwind CSS & Figma
+- ☁️ **Cloud Computing** — Exploring scalable architecture & optimization
+- 🧹 **Clean Code** — Writing maintainable and high-quality software
 
 ---
 
@@ -58,7 +60,8 @@
 
 <div align="center">
 
-**Frontend**  
+**Frontend**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -66,13 +69,15 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-**Backend & Database**  
+**Backend & Database**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools**  
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -85,24 +90,24 @@
 
 ### 🔬 Research Interests
 
-- ☁️ **Cloud Computing** — Virtualization, serverless systems, scalable infrastructure  
-- 🤖 **Artificial Intelligence & Machine Learning** — Intelligent systems and automation  
-- 📊 **Data Engineering** — Managing and processing large-scale data  
-- ⚡ **Web Performance Optimization** — Building fast and efficient applications  
+- ☁️ **Cloud Computing** — Virtualization, serverless systems, scalable infrastructure
+- 🤖 **Artificial Intelligence & Machine Learning** — Intelligent systems and automation
+- 📊 **Data Engineering** — Managing and processing large-scale data
+- ⚡ **Web Performance Optimization** — Building fast and efficient applications
 
 ---
 
 ### 🎓 Courses I Teach
 
-- 💻 C++ & Object-Oriented Programming  
-- ☕ Advanced Java Programming  
-- 🛠️ Software Engineering  
-- 🌐 Data Communication & Networking  
-- 🖥️ Compiler Design  
-- ☁️ Distributed Systems  
-- 🔐 Computer Security  
-- 🗄️ Advanced Database Systems  
-- 🐍 Python Programming  
+- 💻 C++ & Object-Oriented Programming
+- ☕ Advanced Java Programming
+- 🛠️ Software Engineering
+- 🌐 Data Communication & Networking
+- 🖥️ Compiler Design
+- ☁️ Distributed Systems
+- 🔐 Computer Security
+- 🗄️ Advanced Database Systems
+- 🐍 Python Programming
 
 ---
 
@@ -123,8 +128,8 @@
 
 ### 🏫 Community & Research
 
-- Delivered **Database Management System** workshops to the community  
-- Ongoing research in **Cloud Computing** and **Artificial Intelligence**  
+- Delivered **Database Management System** workshops to the community
+- Ongoing research in **Cloud Computing** and **Artificial Intelligence**
 - [Web of Science Profile](https://www.webofscience.com/wos/author/record/PVC-6718-2026)
 
 ---
@@ -144,3 +149,4 @@
     <img src="https://img.shields.io/badge/Let's_Connect-Email_Me-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
   </a>
 </div>
+
