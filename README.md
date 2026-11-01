@@ -1,19 +1,15 @@
-
-
+```html
 <div align="center">
 
   <!-- Animated Typing Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ketema+Deresa+%F0%9F%91%8B;Lecturer+%7C+Full-Stack+Developer;Cloud+%26+AI+Enthusiast;Building+Clean+%26+Scalable+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ketema+Deresa+%F0%9F%91%8B;Lecturer+%7C+Full-Stack+Developer;Cloud+%26+AI+Enthusiast;Building+Clean+%26+Scalable+Apps" alt="Typing SVG"/>
 
   <br><br>
 
   <!-- Coding Animation -->
   <img src="https://media.giphy.com/media/qgQUggACQPF6knEq8Q/giphy.gif" width="280" alt="Developer coding"/>
 
-  <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" height="35"/>
-    Ketema Deresa
-  </h2>
+  <h2>👋 Ketema Deresa</h2>
 
   <h3>
     Lecturer @ <b>Oda Bultum University</b><br>
@@ -135,6 +131,16 @@
 
 ---
 
+### 📈 Contribution Activity
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ketemaderesa&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph"/>
+
+</div>
+
+---
+
 ### 🏫 Community & Research
 
 - Delivered **Database Management System** workshops to the community
@@ -162,4 +168,4 @@
   </a>
 
 </div>
-
+```
