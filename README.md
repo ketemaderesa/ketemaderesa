@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
 
   <!-- Animated Typing Header -->
