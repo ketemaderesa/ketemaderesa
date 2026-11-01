@@ -7,7 +7,7 @@
 
   <br><br>
 
-  <!-- Reliable Coding GIF -->
+  <!-- Coding Animation -->
   <img src="https://media.giphy.com/media/qgQUggACQPF6knEq8Q/giphy.gif" width="280" alt="Developer coding"/>
 
   <h2>
@@ -38,6 +38,7 @@
     </a>
   </p>
 
+  <!-- Profile Views -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=ketemaderesa&label=Profile%20Views&color=00BFFF&style=for-the-badge" alt="Profile views"/>
   </p>
@@ -114,14 +115,22 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ketemaderesa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ketemaderesa&theme=tokyonight&hide_border=true" height="160"/>
-</div>
 
-<br>
+  <!-- Automatically Generated GitHub Metrics -->
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%"/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketemaderesa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
+  <br><br>
+
+  <!-- GitHub Statistics -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ketemaderesa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub statistics"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ketemaderesa&theme=tokyonight&hide_border=true" height="160" alt="GitHub streak"/>
+
+  <br><br>
+
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketemaderesa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="Most used programming languages"/>
+
 </div>
 
 ---
@@ -141,12 +150,16 @@
 ---
 
 <div align="center">
+
   <br>
+
   <h3>Thanks for visiting! ✨</h3>
+
   <p>Let's connect and build something meaningful.</p>
 
   <a href="mailto:ketema.deresa@gmail.com">
     <img src="https://img.shields.io/badge/Let's_Connect-Email_Me-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
   </a>
+
 </div>
 
